@@ -7,17 +7,14 @@ ML-Toolbox starter project for experimenting with different practical problems
 algo_list = ['dtc', 'linsvc', 'svc', 'mlp', 'knn', 'gaus', 'lda', 'logreg']
 
 ## Usage:
-algo.extractTrainData\n
-algo.extractTestData\n
-algo.analyze\n
-algo.plot\n
-algo.run_multiple\n
-algo.testHypersOnAlgo\n
-algo.testAlgo\n
-algo,predict_on_model\n
-
-## Licence 
-- MIT
+- algo.extractTrainData
+- algo.extractTestData
+- algo.analyze
+- algo.plot
+- algo.run_multiple
+- algo.testHypersOnAlgo
+- algo.testAlgo
+- algo.predict_on_model
 
 ## Author
 branislav.djalic@gmail.com
